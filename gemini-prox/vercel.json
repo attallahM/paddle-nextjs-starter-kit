@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/gemini-proxy.js": {
+      "maxDuration": 30,
+      "runtime": "@vercel/node@latest"
+    }
+  }
+}
